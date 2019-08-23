@@ -12,7 +12,7 @@ import org.springframework.stereotype.Service;
 public class AdminServiceImp implements AdminService {
     @Autowired
     private AdminMapper adminMapper;
-
+//131231231231231231312312312312312312
     /**
      * 验证登陆信息
      * @param username
