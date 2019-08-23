@@ -7,12 +7,14 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 //按F进入坦克
 
-//88888
+//开坦克的贝他
 @Service
 public class AdminServiceImp implements AdminService {
     @Autowired
     private AdminMapper adminMapper;
 //131231231231231231312312312312312312
+
+
     /**
      * 验证登陆信息
      * @param username
