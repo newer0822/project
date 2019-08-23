@@ -10,7 +10,7 @@ public class Admin implements Serializable {
     private static final long serialVersionUID = 7388503818826067709L;
     private Integer id;//用户id
     private String username;//用户名
-    private String pwd;//密码
+    private String pwd;//密码//121221
     private Integer remarks;//用户标识 1，普通员工，2，部门经理，3，总经理
 
     public static long getSerialVersionUID() {
