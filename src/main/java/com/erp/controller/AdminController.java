@@ -34,6 +34,8 @@ public class AdminController {
     private String str;//程序输出的验证码
 
     /**
+     *
+     * dadadad
      * 登陆
      * @param username
      * @param pwd
